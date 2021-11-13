@@ -1,0 +1,6 @@
+C:\Users\wilso\source\repos\proyectoAnalisis\proyectoAnalisis\bin\Debug\proyectoAnalisis.dll
+C:\Users\wilso\source\repos\proyectoAnalisis\proyectoAnalisis\bin\Debug\proyectoAnalisis.pdb
+C:\Users\wilso\source\repos\proyectoAnalisis\proyectoAnalisis\obj\Debug\proyectoAnalisis.csprojAssemblyReference.cache
+C:\Users\wilso\source\repos\proyectoAnalisis\proyectoAnalisis\obj\Debug\proyectoAnalisis.csproj.CoreCompileInputs.cache
+C:\Users\wilso\source\repos\proyectoAnalisis\proyectoAnalisis\obj\Debug\proyectoAnalisis.dll
+C:\Users\wilso\source\repos\proyectoAnalisis\proyectoAnalisis\obj\Debug\proyectoAnalisis.pdb
